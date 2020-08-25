@@ -1,1 +1,3 @@
-[T][✘]    asd
+[T][✘]      asd
+[D][✘]  do homework  (by: Jul 23 2020)
+[E][✘]  meeting izg  (at: Aug 24 2020  1300)
